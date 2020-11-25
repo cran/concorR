@@ -20,8 +20,14 @@ original description by Breiger, Boorman, and Arabie (1975), or Chapter
 
 ## Installation
 
-You can install the development version from
-[GitHub](https://github.com/) with:
+You can install the released version of concorR from
+[CRAN](https://CRAN.R-project.org) with:
+
+``` r
+install.packages("concorR")
+```
+
+And the development version from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
@@ -221,10 +227,9 @@ R. L. Breiger, S. A. Boorman, P. Arabie, An algorithm for clustering
 relational data with applications to social network analysis and
 comparison with multidimensional scaling. *J. of Mathematical
 Psychology*. **12**, 328 (1975).
-<http://doi.org/10.1016/0022-2496(75)90028-0>
 
 D. Krackhardt, Cognitive social structures. *Social Networks*. **9**,
-104 (1987). <http://doi.org/10.1016/0378-8733(87)90009-8>
+104 (1987). 
 
 S. Wasserman and K. Faust, *Social Network Analysis: Methods and
 Applications* (Cambridge University Press, 1994).
